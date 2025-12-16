@@ -10,7 +10,7 @@ M.Tech (Computer Science & Engineering)
 
 ## 👋 About Me
 
-I am an Assistant Professor in the Department of Computer Science & Engineering with a strong academic and research focus on **Artificial Intelligence and Machine Learning**. My work primarily explores the application of AI techniques in **healthcare systems**, especially in developing **intelligent healthcare recommender systems** and **clinical decision support models**.
+I am an Assistant Professor in the Department of Computer Science & Engineering (AIML) with a strong academic and research focus on **Artificial Intelligence and Machine Learning**. My work primarily explores the application of AI techniques in **healthcare systems**, especially in developing **intelligent healthcare recommender systems** and **clinical decision support models**.
 
 I am actively involved in teaching, guiding undergraduate and postgraduate student projects, and conducting applied research aimed at solving real-world problems using data-driven and intelligent systems.
 
