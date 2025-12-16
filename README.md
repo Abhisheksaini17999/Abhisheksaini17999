@@ -57,18 +57,6 @@ I am actively involved in teaching, guiding undergraduate and postgraduate stude
 * MySQL
 * MIMIC-III / MIMIC-IV Clinical Database
 
----
-
-## 📂 Featured Repositories
-
-* **healthcare-recommender-system**
-  AI-based system for patient prioritization using machine learning
-
-* **machine-learning-projects**
-  Collection of ML algorithms and case studies for teaching and research
-
-* **python-for-data-science**
-  Python programs and notebooks for data analysis and ML fundamentals
 
 ---
 
